@@ -48,4 +48,16 @@ body {
   .game-info {
     margin-left: 20px;
   }
+
+  .history {
+    display: block;
+  }
+
+  .history-select {
+    font-weight: bold;
+  }
+
+  .winner {
+    color: red;
+  }
   
