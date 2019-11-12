@@ -1,6 +1,6 @@
 # About
 
-这是使用react开发的#子棋项目
+这是使用react-create-app开发的#子棋项目
 
 # 使用
 
